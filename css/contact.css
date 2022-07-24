@@ -1,0 +1,44 @@
+.bold{
+    font-weight: bold;
+}
+.ml-5{
+    margin-left: 5px;
+}
+.email select{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.name input{
+    margin-left: 5px;
+    min-width: 22vw;
+}
+.email input{
+    margin-left: 5px;
+    min-width: 22vw;
+}
+.num input{
+    margin-left: 5px;
+    min-width: 22vw;
+}
+:root{
+    --red:red;
+    --white:white;
+}
+.Btn{
+    cursor: pointer;
+    translate: translateY(5px);
+    /* background-color: var(--white);
+    color: var(--red); */
+    background-color: white;
+    color: red;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.Btn:hover{
+    background-color: red;
+    color: white;
+    /* background-color: var(--red);
+    color: var(--white); */
+}

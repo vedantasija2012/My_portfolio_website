@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(219, 238, 255);
+    overflow-x: hidden;
+}
+.navbar{
+    overflow-x: hidden;
+    background-color: black;
+    height: 12vh;
+    width: 100vw;
+}
+@media screen and (max-width:582px) {
+    .navbar{
+        height: 25vh;
+    }
+}
+.navbar ul li{
+    margin: 5px 10px;
+    padding: 10px 20px;
+}
+.btn{
+    margin-bottom: 5px;
+    padding: 10px 20px;
+    background-color: rgb(44, 146, 255);
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.btn:hover{
+    background-color: blue;
+    transform: translateY(-5px);
+}
+.btn:active{
+    background-color: red;
+    border: 2px solid red;
+}
+.btn a{
+    color: white;
+}
+.h-primary{
+    font-size: 2rem;
+}
+.h-secondary{
+    font-size: 1.5rem;
+}
+.intropara{
+    font-size: 1.2rem;
+    margin: 12px 0px;
+}
+.developer img{
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.myInfo{
+    font-size: 1rem;
+}

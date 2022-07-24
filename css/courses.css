@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(219, 238, 255);
+}
+h2{
+    margin-bottom: 22px;
+}
+h1 {
+    text-align: center;
+}
+div{
+    height: 15vh;
+}
+div .certificate{
+    background-color: white;
+    color: black;
+    padding:10px 15px;
+    border: 2px solid black;
+    text-decoration: none;
+}

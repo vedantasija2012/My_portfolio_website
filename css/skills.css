@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(228, 225, 225);
+}
+h1{
+    text-align: center;
+}
+ol li{
+    display: inline;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px;
+    height: 20px;
+    width: 20px;
+}
+img{
+    margin-left: 5px;
+}
+.container{
+    height: 55vh;
+}

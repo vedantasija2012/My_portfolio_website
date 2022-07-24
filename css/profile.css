@@ -1,0 +1,51 @@
+.linkedin{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.github{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.resume{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.profiles{
+    height: 90vh;
+}
+.profile01{
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 10px;
+}
+.profile01 a{
+    color: white;
+    text-decoration: none;
+}
+.profile02{
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 10px;
+}
+.profile02 a{
+    color: white;
+    text-decoration: none;
+}
+.profile03{
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 10px;
+}
+.profile03 a{
+    color: white;
+    text-decoration: none;
+}

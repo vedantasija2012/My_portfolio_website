@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(219, 238, 255);
+}
+h1 {
+    text-align: center;
+}
+.projectBtn{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.projectBtn:hover{
+    background-color: black;
+}
+.projectBtn a{
+    color: blue;
+    text-decoration: none;
+}
+.projectBtn a:hover{
+    color: white;
+}
