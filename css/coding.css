@@ -1,3 +1,10 @@
 .container{
     height: 50vh;
 }
+.profile{
+    padding: 2px 5px;
+    border: 2px solid rgb(0, 255, 55);
+    background-color: white;
+    color: rgb(21, 155, 50);
+    text-decoration: none;
+}
