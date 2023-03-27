@@ -52,6 +52,7 @@ body{
 .developer img{
     border-radius: 10px;
     border: 2px solid black;
+    margin-top: 1rem;
 }
 .myInfo{
     font-size: 1rem;
